@@ -1,3 +1,3 @@
-TG-128 #closed
+#128 closed
 
 # testMaFul
